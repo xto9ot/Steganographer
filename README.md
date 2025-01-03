@@ -1,6 +1,9 @@
 Steganography: The art and science of hiding information in a way that prevents detection.
 Requirements:
 The reciever and the sender both should have python3 installed,libraries: cryptography,CryptoSteganography installed.
+
+
+
 1)Steganographer.py:
 You'll recieve a key send it to the reciever for decryption
 You'll need to specify:
